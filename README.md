@@ -10,7 +10,6 @@
 
 Шрифты:  
 - Eurostile-Demi
-- XXIICentar-Regular
 
 ## Маркировка в After Effect 2024
 
